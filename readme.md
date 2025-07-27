@@ -16,23 +16,17 @@ pip install -r requirements.txt
 
 ## Access to data
 
-Datasets available from  https://anonymous.4open.science/r/TFC-Datasets-2703/
-
 First, please put datasets(AIOPS, UCR, TODS, NAB, Yahoo, WSD) under datasets folder
 
 ## Train and Test
 
-### Handle all default datasets
-```
-./run.sh
-```
-
-### Handle the specified data set
-```
-./run.sh NAB AIOPS
-```
 
 ### Handle a single dataset
 ```
-./run.sh Yahoo
+./run.sh -d TODS
+```
+
+### Handle datasets
+```
+./run.sh -d "UCR,Yahoo"
 ```
