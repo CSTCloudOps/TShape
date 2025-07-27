@@ -1,0 +1,142 @@
+{
+    "Twitter_volume_UPS": {
+        "best f1 under pa": {
+            "f1": 0.9953051643192483,
+            "precision": 0.9906542056074766,
+            "recall": 1.0,
+            "threshold": 0.2532642185688019
+        },
+        "event-based f1 under pa with mode log": {
+            "f1": 0.7692307692307686,
+            "precision": 0.6249999999999999,
+            "recall": 0.9999999999999998,
+            "threshold": 0.2532642185688019
+        }
+    },
+    "Twitter_volume_AAPL": {
+        "best f1 under pa": {
+            "f1": 0.997493734335839,
+            "precision": 0.995,
+            "recall": 1.0,
+            "threshold": 0.9292866587638855
+        },
+        "event-based f1 under pa with mode log": {
+            "f1": 0.8333333333333327,
+            "precision": 0.7142857142857142,
+            "recall": 0.9999999999999998,
+            "threshold": 0.9292866587638855
+        }
+    },
+    "Twitter_volume_FB": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 0.6978319883346558
+        },
+        "event-based f1 under pa with mode log": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 0.6978319883346558
+        }
+    },
+    "Twitter_volume_GOOG": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 0.29683294892311096
+        },
+        "event-based f1 under pa with mode log": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999998,
+            "recall": 0.9999999999999998,
+            "threshold": 0.29683294892311096
+        }
+    },
+    "Twitter_volume_CRM": {
+        "best f1 under pa": {
+            "f1": 0.991071428571428,
+            "precision": 0.9823008849557522,
+            "recall": 1.0,
+            "threshold": 0.01674596779048443
+        },
+        "event-based f1 under pa with mode log": {
+            "f1": 0.6249999999999994,
+            "precision": 0.4545454545454545,
+            "recall": 0.9999999999999998,
+            "threshold": 0.01674596779048443
+        }
+    },
+    "Twitter_volume_AMZN": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 0.03403541445732117
+        },
+        "event-based f1 under pa with mode log": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999998,
+            "recall": 0.9999999999999998,
+            "threshold": 0.03403541445732117
+        }
+    },
+    "Twitter_volume_IBM": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 1.2839810848236084
+        },
+        "event-based f1 under pa with mode log": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999999,
+            "recall": 0.9999999999999999,
+            "threshold": 1.2839810848236084
+        }
+    },
+    "Twitter_volume_PFE": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 0.120997853577137
+        },
+        "event-based f1 under pa with mode log": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999998,
+            "recall": 0.9999999999999998,
+            "threshold": 0.120997853577137
+        }
+    },
+    "Twitter_volume_KO": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 0.8520803451538086
+        },
+        "event-based f1 under pa with mode log": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999998,
+            "recall": 0.9999999999999998,
+            "threshold": 0.8520803451538086
+        }
+    },
+    "Twitter_volume_CVS": {
+        "best f1 under pa": {
+            "f1": 0.9999999999999996,
+            "precision": 1.0,
+            "recall": 1.0,
+            "threshold": 0.02307990938425064
+        },
+        "event-based f1 under pa with mode log": {
+            "f1": 0.9999999999999993,
+            "precision": 0.9999999999999998,
+            "recall": 0.9999999999999998,
+            "threshold": 0.02307990938425064
+        }
+    }
+}

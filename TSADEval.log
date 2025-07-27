@@ -1,0 +1,83 @@
+(2025-07-27 11:29:12,153) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-07-27 11:29:12,154) [INFO]: Dataset Directory has been loaded.
+(2025-07-27 11:29:12,154) [INFO]: Run Experiments. Method[TShape], Schema[naive].
+(2025-07-27 11:29:12,154) [INFO]: Use Customized Method Config. Path: /home/ch/ts-dual/TSShapeFormer/Examples/run_your_algo/config.toml
+(2025-07-27 11:29:12,154) [INFO]:     [Load Data (All)] DataSets: NAB 
+(2025-07-27 11:29:12,169) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_UPS 
+(2025-07-27 11:29:19,741) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_GOOG 
+(2025-07-27 11:29:26,407) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_IBM 
+(2025-07-27 11:29:29,594) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_FB 
+(2025-07-27 11:29:36,228) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_AMZN 
+(2025-07-27 11:29:41,307) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_CVS 
+(2025-07-27 11:29:46,078) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_PFE 
+(2025-07-27 11:29:53,379) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_CRM 
+(2025-07-27 11:29:58,155) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_KO 
+(2025-07-27 11:30:02,618) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_AAPL 
+(2025-07-27 11:30:05,864) [INFO]: Register evaluations
+(2025-07-27 11:30:05,864) [INFO]: Perform evaluations. Method[TShape], Schema[naive].
+(2025-07-27 11:30:05,864) [INFO]:     [Load Data (All)] DataSets: NAB 
+(2025-07-27 11:30:05,868) [INFO]:     [TShape] Eval dataset NAB <<<
+(2025-07-27 11:30:05,868) [INFO]:         [NAB] Using margins (0, 0)
+(2025-07-27 11:30:06,115) [INFO]: Plotting. Method[TShape], Schema[naive].
+(2025-07-27 11:30:06,115) [INFO]:     [Load Data (All)] DataSets: NAB 
+(2025-07-27 11:30:06,118) [INFO]:     [TShape] Plot dataset NAB score only 
+(2025-07-27 11:31:41,620) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-07-27 11:31:41,621) [INFO]: Dataset Directory has been loaded.
+(2025-07-27 11:31:41,621) [INFO]: Run Experiments. Method[TShape], Schema[naive].
+(2025-07-27 11:31:41,621) [INFO]: Use Customized Method Config. Path: /home/ch/ts-dual/TSShapeFormer/Examples/run_your_algo/config.toml
+(2025-07-27 11:31:41,621) [INFO]:     [Load Data (All)] DataSets: NAB 
+(2025-07-27 11:31:41,636) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_UPS 
+(2025-07-27 11:31:48,280) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_GOOG 
+(2025-07-27 11:31:51,494) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_IBM 
+(2025-07-27 11:31:54,705) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_FB 
+(2025-07-27 11:31:59,809) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_AMZN 
+(2025-07-27 11:32:03,016) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_CVS 
+(2025-07-27 11:32:06,239) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_PFE 
+(2025-07-27 11:32:11,358) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_CRM 
+(2025-07-27 11:32:14,572) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_KO 
+(2025-07-27 11:32:20,935) [INFO]:     [TShape] handling dataset NAB | curve Twitter_volume_AAPL 
+(2025-07-27 11:32:24,195) [INFO]: Register evaluations
+(2025-07-27 11:32:24,195) [INFO]: Perform evaluations. Method[TShape], Schema[naive].
+(2025-07-27 11:32:24,195) [INFO]:     [Load Data (All)] DataSets: NAB 
+(2025-07-27 11:32:24,199) [INFO]:     [TShape] Eval dataset NAB <<<
+(2025-07-27 11:32:24,199) [INFO]:         [NAB] Using margins (0, 0)
+(2025-07-27 11:32:24,444) [INFO]: Plotting. Method[TShape], Schema[naive].
+(2025-07-27 11:32:24,445) [INFO]:     [Load Data (All)] DataSets: NAB 
+(2025-07-27 11:32:24,447) [INFO]:     [TShape] Plot dataset NAB score only 
+(2025-07-27 11:33:04,459) [INFO]: 
+                         
+███████╗ █████╗ ███████╗██╗   ██╗    ████████╗███████╗ █████╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝╚██╗ ██╔╝    ╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
+█████╗  ███████║███████╗ ╚████╔╝        ██║   ███████╗███████║██║  ██║
+██╔══╝  ██╔══██║╚════██║  ╚██╔╝         ██║   ╚════██║██╔══██║██║  ██║
+███████╗██║  ██║███████║   ██║          ██║   ███████║██║  ██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝          ╚═╝   ╚══════╝╚═╝  ╚═╝╚═════╝ 
+                                                                      
+                         
+(2025-07-27 11:33:04,460) [INFO]: Dataset Directory has been loaded.
+(2025-07-27 11:33:04,460) [INFO]: Run Experiments. Method[TShape], Schema[naive].
+(2025-07-27 11:33:04,460) [INFO]: Use Customized Method Config. Path: /home/ch/ts-dual/TSShapeFormer/Examples/run_your_algo/config.toml
+(2025-07-27 11:33:04,460) [INFO]:     [Load Data (All)] DataSets: AIOPS 
+(2025-07-27 11:33:04,644) [INFO]:     [TShape] handling dataset AIOPS | curve 6d1114ae-be04-3c46-b5aa-be1a003a57cd 
+(2025-07-27 11:34:05,231) [INFO]:     [TShape] handling dataset AIOPS | curve 847e8ecc-f8d2-3a93-9107-f367a0aab37d 
+(2025-07-27 11:37:29,706) [INFO]:     [TShape] handling dataset AIOPS | curve 0efb375b-b902-3661-ab23-9a0bb799f4e3 
+(2025-07-27 11:37:34,933) [INFO]:     [TShape] handling dataset AIOPS | curve c02607e8-7399-3dde-9d28-8a8da5e5d251 
+(2025-07-27 11:37:38,435) [INFO]:     [TShape] handling dataset AIOPS | curve 7103fa0f-cac4-314f-addc-866190247439 
