@@ -35,4 +35,4 @@ First, please put datasets(AIOPS, UCR, TODS, NAB, Yahoo, WSD) under datasets fol
 Baselines can be found at https://github.com/dawnvince/EasyTSAD
 
 
-Results can be found at http://adeval.cstcloud.cn
+Results of baselines can be found at http://adeval.cstcloud.cn
