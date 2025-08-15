@@ -1,3 +1,5 @@
+# TShape: Rescuing Machine Learning Models from Complex Shapelet Anomalies (ISSRE2025)
+
 # Get Started
 
 ## Installation
@@ -20,16 +22,10 @@ First, please put datasets(AIOPS, UCR, TODS, NAB, Yahoo, WSD) under datasets fol
 
 ## Train and Test
 
+'''
+python main.py
+'''
 
-### Handle a single dataset
-```
-./run.sh -d TODS
-```
-
-### Handle datasets
-```
-./run.sh -d "UCR,Yahoo"
-```
 
 ### Baselines
 Baselines can be found at https://github.com/dawnvince/EasyTSAD
