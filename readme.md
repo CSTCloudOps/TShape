@@ -22,9 +22,10 @@ First, please put datasets(AIOPS, UCR, TODS, NAB, Yahoo, WSD) under datasets fol
 
 ## Train and Test
 
-'''
+```
 python main.py
-'''
+```
+
 
 
 ### Baselines
