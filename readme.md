@@ -1,6 +1,6 @@
 # TShape: Rescuing Machine Learning Models from Complex Shapelet Anomalies (ISSRE2025)
 
-![Overview of TShape](./case.jpg)
+![Overview of TShape](./case.png)
 
 # Get Started
 
